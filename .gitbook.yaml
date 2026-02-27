@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  help: support.md
+  help: runbooks.md
