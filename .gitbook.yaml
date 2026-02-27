@@ -1,4 +1,1 @@
 root: ./
-
-redirects:
-  help: runbooks.md
