@@ -1,2 +1,3 @@
-# Page
+# Intro
 
+This is the intro page
